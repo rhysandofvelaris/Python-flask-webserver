@@ -1,6 +1,3 @@
-Here’s a detailed step-by-step guide to completing your project using AWS EC2, Python (Flask), Docker, AWS for deployment, and Jenkins for CI/CD.
-
-
 ---
 
 1. Set Up Your AWS EC2 Instance
