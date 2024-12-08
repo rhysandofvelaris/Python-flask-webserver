@@ -1,4 +1,4 @@
-Complete the project using AWS EC2, Python (Flask), Docker, AWS for deployment, and Jenkins for CI/CD.
+My project using AWS EC2, Python (Flask), Docker, AWS for deployment, and Jenkins for CI/CD.
 
 
 ---
