@@ -1,3 +1,6 @@
+completing your project using AWS EC2, Python (Flask), Docker, AWS for deployment, and Jenkins for CI/CD.
+
+
 ---
 
 1. Set Up Your AWS EC2 Instance
@@ -275,5 +278,10 @@ docker run -d --restart always -p 80:80 flask-docker-app
 
 
 ---
+
+Final Notes
+
+1. GitHub Repository: Push all files to GitHub.
+
 
 
